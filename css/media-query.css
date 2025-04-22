@@ -1,0 +1,89 @@
+@media screen and (min-width: 640px) {
+  .sm-100 {
+    width: 100% !important;
+  }
+  .sm-75 {
+    width: 75% !important;
+  }
+  .sm-50 {
+    width: 50% !important;
+  }
+  .sm-33 {
+    width: 33.33% !important;
+  }
+  .sm-25 {
+    width: 25% !important;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .md-100 {
+    width: 100% !important;
+  }
+  .md-75 {
+    width: 75% !important;
+  }
+  .md-50 {
+    width: 50% !important;
+  }
+  .md-33 {
+    width: 33.33% !important;
+  }
+  .md-25 {
+    width: 25% !important;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lg-100 {
+    width: 100% !important;
+  }
+  .lg-75 {
+    width: 75% !important;
+  }
+  .lg-50 {
+    width: 50% !important;
+  }
+  .lg-33 {
+    width: 33.33% !important;
+  }
+  .lg-25 {
+    width: 25% !important;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .xl-100 {
+    width: 100% !important;
+  }
+  .xl-75 {
+    width: 75% !important;
+  }
+  .xl-50 {
+    width: 50% !important;
+  }
+  .xl-33 {
+    width: 33.33% !important;
+  }
+  .xl-25 {
+    width: 25% !important;
+  }
+}
+
+@media screen and (min-width: 1536px) {
+  .xxl-100 {
+    width: 100% !important;
+  }
+  .xxl-75 {
+    width: 75% !important;
+  }
+  .xxl-50 {
+    width: 50% !important;
+  }
+  .xxl-33 {
+    width: 33.33% !important;
+  }
+  .xxl-25 {
+    width: 25% !important;
+  }
+}
